@@ -23,7 +23,7 @@ Feel free to reach out to me on slack, MSTeam, or LinkedIn. I'd love to chat abo
 - Instead of just singing in the shower, I now have a full concert audience of my pets while I belt out my favorite tunes during WFH karaoke sessions. 🎤🎶
 - I'm a proud Slytherin 🐍💚, but don't worry, I won't try to poison your potion... ⚗️ unless you try to steal my Butterbeer. Nice to meet all my fellow snakes out there, and all you lions, badgers, and eagles too! 🪄
 
-## 🏆 Showcases
+## 🏆 Cloud Certification Showcase
 
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/102285772/220892743-a020dd08-6440-4ec6-ab37-d473dd6f0338.png" style="width: 120px; height: 120px; margin-right: 10px;">
