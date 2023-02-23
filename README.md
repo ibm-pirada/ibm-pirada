@@ -2,14 +2,17 @@
 
 Nice to meet you :) My name is Pirada but please just call me 'Earn'!
 
-## About Me 😄
+## 😄 About Me
 
 💻 Full Stack Developer & Application Consultant at IBM Consulting 💼
+
 Bringing cloud transformation projects to life one code line at a time 🌩️
+
 Always up for a challenge and a good cup of coffee ☕️
 
 🌃 Night Owl Alert 🌃
-I'm a fan of coding under the moonlight 🌕 just a little too much 🙈. So excuse me if I'm a bit drowsy during the day 💤
+
+I'm a fan of coding under the moonlight 🌕 ... maybe just a little too much 🙈. So excuse me if I'm a bit drowsy during the day 💤
 
 ## 💬 Let's chat!
 
@@ -18,6 +21,7 @@ Feel free to reach out to me on slack, MSTeam, or LinkedIn. I'd love to chat abo
 ## ⚡ Fun fact
 
 - Instead of just singing in the shower, I now have a full concert audience of my pets while I belt out my favorite tunes during WFH karaoke sessions. 🎤🎶
+- I'm a proud Slytherin 🐍💚, but don't worry, I won't try to poison your potion... ⚗️ unless you try to steal my Butterbeer. Nice to meet all my fellow snakes out there, and all you lions, badgers, and eagles too! 🪄
 
 <!--
 **ibm-pirada/ibm-pirada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
