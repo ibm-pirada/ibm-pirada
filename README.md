@@ -2,6 +2,8 @@
 
 Nice to meet you :) My name is Pirada but please just call me 'Earn'!
 
+If you're reading this message, hope you're having a wonderful day!
+
 ## 😄 About Me
 
 💻 Full Stack Developer & Application Consultant at IBM Consulting 💼
