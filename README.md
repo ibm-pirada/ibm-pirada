@@ -1,14 +1,8 @@
-## 👋 Hi there
-
-Nice to meet you :) My name is Pirada but please just call me 'Earn'!
-
-If you're reading this message, hope you're having a wonderful day!
+<h1 align="center">Hi 👋, I'm Earn</h1>
+<h3 align="center">💻 Full Stack Developer & Application Consultant at IBM Consulting 💼</h3>
+<h4 align="center">🔭 I’m currently working on <a href="https://github.com/corp-ais/esd-edsb-pipeline/">Enterprise Digital Service Bus</a> ☁️</h3>
 
 ## 😄 About Me
-
-💻 Full Stack Developer & Application Consultant at IBM Consulting 💼
-
-Bringing cloud transformation projects to life one code line at a time 🌩️
 
 Always up for a challenge and a good cup of coffee ☕️
 
@@ -19,6 +13,10 @@ I'm a fan of coding under the moonlight 🌕 ... maybe just a little too much �
 ## 💬 Let's chat!
 
 Feel free to reach out to me on slack, MSTeam, or LinkedIn. I'd love to chat about anything from software development to cute cats. 🐈 
+
+<p align="left">
+<a href="https://linkedin.com/in/piradab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piradab" height="30" width="40" /></a>
+</p>
 
 ## ⚡ Fun fact
 
@@ -33,6 +31,8 @@ Feel free to reach out to me on slack, MSTeam, or LinkedIn. I'd love to chat abo
   <img src="https://user-images.githubusercontent.com/102285772/220892570-d8b099a5-09da-4b08-8b46-30f85d457dd4.png" style="width: 120px; height: 120px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/102285772/220892487-5de1c4e5-de16-4872-bbd3-c40309b2314e.png" style="width: 120px; height: 120px;">
 </div>
+
+🌱 I’m currently working on `AZ-305: Designing Microsoft Azure Infrastructure Solutions` ... please wish me the best > <
 
 <!--
 **ibm-pirada/ibm-pirada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
