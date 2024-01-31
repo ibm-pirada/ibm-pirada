@@ -4,11 +4,9 @@
 
 ## 😄 About Me
 
-Always up for a challenge and a good cup of coffee ☕️
+... Always up for a challenge and a good cup of coffee ☕️
 
-🌃 Night Owl Alert 🌃
-
-I'm a fan of coding under the moonlight 🌕 ... maybe just a little too much 🙈. So excuse me if I'm a bit drowsy during the day 💤
+I'm a fan of coding under the moonlight 🌕 ...
 
 ## 💬 Let's chat!
 
@@ -18,11 +16,12 @@ Feel free to reach out to me on slack, MSTeam, or LinkedIn. I'd love to chat abo
 <a href="https://linkedin.com/in/piradab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piradab" height="30" width="40" /></a>
 </p>
 
-## ⚡ Fun fact
+## ⚡ Fun Facts
 
-- Instead of just singing in the shower, I now have a full concert audience of my pets while I belt out my favorite tunes during WFH karaoke sessions. 🎤🎶
-- I'm a proud Slytherin 🐍💚, but don't worry, I won't try to poison your potion... ⚗️ unless you try to steal my Butterbeer. Nice to meet all my fellow snakes out there, and all you lions, badgers, and eagles too! 🪄
-
+- If I don't receive your call promptly, there's a high chance that I am singing karaoke! 🎤🎶
+- I'm a proud Slytherin 🐍💚
+- I'm a J-pop/Anisong fan. My favorite artists include ryo (supercell), yoasobi, LiSA, Kenshi Yonezu, Aimer, etc.
+  
 ## 🏆 Cloud Certification Showcase
 
 <div style="display: flex; justify-content: center;">
